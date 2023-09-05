@@ -4,7 +4,8 @@ The epuck robot makes use of a ground sensor to determine if there is a black sq
 If there is a black square the robot end goal is at the right of the maze but if thers is no black square the robots end goal is to the left of the maze.
 
 ** Video Demonstration**
-[![Unmanned Aerial Vehicle](https://img.youtube.com/vi/0VuvZOtGc2o/0.jpg)](https://www.youtube.com/watch?v=0VuvZOtGc2o)
+
+[![BBR robot](https://img.youtube.com/vi/0VuvZOtGc2o/0.jpg)](https://www.youtube.com/watch?v=0VuvZOtGc2o)
 ## Guide
 
 The directory to the BBR Python Code is :
