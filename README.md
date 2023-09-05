@@ -7,7 +7,7 @@ If there is a black square the robot end goal is at the right of the maze but if
 
 [![BBR robot](https://img.youtube.com/vi/0VuvZOtGc2o/0.jpg)](https://www.youtube.com/watch?v=0VuvZOtGc2o)
 ## Guide
-
+```
 The directory to the BBR Python Code is :
 
 controllers / bbr_controller /bbr_controller.py
@@ -17,3 +17,4 @@ To launch the 2 Webot World go to:
 worlds/e-puck_Robotics_TMaze_WithoutBlackSquare(1).wbt
 
 worlds/e-puck_Robotics_TMaze_WithBlackSquare.wbt
+```
