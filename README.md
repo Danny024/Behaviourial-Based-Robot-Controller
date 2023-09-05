@@ -6,6 +6,9 @@ If there is a black square the robot end goal is at the right of the maze but if
 **Video Demonstration**
 
 [![BBR robot](https://img.youtube.com/vi/0VuvZOtGc2o/0.jpg)](https://www.youtube.com/watch?v=0VuvZOtGc2o)
+
+## Documentation
+[E Puck Robot Documentation](https://unifr-api-epuck.readthedocs.io/en/latest/unifr_api_epuck/epuck_webots.html)
 ## Guide
 
 **The directory to the BBR Python Code is :**
